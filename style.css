@@ -1,0 +1,63 @@
+h1{
+    color:#3a474f;
+    text-align: center;
+    font-size: 100px;
+}
+
+.container{
+    background-color:  #59caf4; 
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin: 0 auto;
+    gap:20px;
+    width: 740px ;
+
+
+}
+
+#yogi img{
+    height:200px ;
+    padding: 20px;
+   
+}
+
+
+.container2{
+    background-color: #d2a5c0; 
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin: 0 auto;
+    gap:20px;
+    width: 740px ;
+    margin-top: 30px;
+}
+
+
+#yogi2 img{
+    height: 200px;
+    padding: 20px;
+}
+
+.container3{ 
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin: 0 auto;
+    gap:20px;
+    width: 740px ;
+    margin-top: 30px;
+}
+
+
+#yogi3 img{
+    height: 200px;
+    padding: 20px;
+}
+
+p{
+    color: #a5abb6;
+    font-size: 30px;
+    text-align: center;
+}
